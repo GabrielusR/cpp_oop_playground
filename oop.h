@@ -1,7 +1,5 @@
-#ifndef _CPP_PLAYGROUND_
-#define _CPP_PLAYGROUND_
-
-#include <string>
+#ifndef _OOP_H_
+#define _OOP_H_
 
 using namespace std;
 
